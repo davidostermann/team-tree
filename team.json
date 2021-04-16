@@ -1,0 +1,356 @@
+{
+    "list": [
+    {
+        "fullname": "AGKA Aghiles Ben Kaoudjt",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1366/big/AGKA.jpg?1608219163",
+        "poly": "AGKA",
+        "name": "Aghiles Ben Kaoudjt",
+        "manager": "CLD",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "ALME Mehdi AL OUAFI",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1822/big/HUBC3214_%281%29.jpg?1582708523",
+        "poly": "ALME",
+        "name": "Mehdi AL OUAFI",
+        "manager": "FLIP",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "ANSA Annaëlle SAGOT",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1563/big/HUBC1106.jpg?1560850653",
+        "poly": "ANSA",
+        "name": "Annaëlle SAGOT",
+        "manager": "CHAN",
+        "level": "C" 
+    }, 
+    {
+        "fullname": "BOYE Gaël BOYENVAL",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1937/big/portrait_gael.jpg?1597070926",
+        "poly": "BOYE",
+        "name": "Gaël BOYENVAL",
+        "manager": "JVI",
+        "level": "CS" 
+    }, 
+    {
+        "fullname": "BRM Brandone Martins",
+        "img": "//s3.amazonaws.com/askbob/users/photos/756/big/Capture_d%E2%80%99e%CC%81cran_2017-03-13_a%CC%80_14.51.44.jpg?1489572377",
+        "poly": "BRM",
+        "name": "Brandone Martins",
+        "manager": "FMI",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "CHAN Antoine Chalifour",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1362/big/Image_from_iOS.jpg?1587651877",
+        "poly": "CHAN",
+        "name": "Antoine Chalifour",
+        "manager": "CLD",
+        "level": "CS" 
+    }, 
+    {
+        "fullname": "CIRO Rodrigo CISTERNAS",
+        "img": "//s3.amazonaws.com/askbob/users/photos/2164/big/2333aea0-75df-11eb-82ab-858965f1668e.jpg?1617715504",
+        "poly": "CIRO",
+        "name": "Rodrigo CISTERNAS",
+        "manager": "BIAC",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "CLD Clément Dubois",
+        "img": "//s3.amazonaws.com/askbob/users/photos/306/big/CINE7586.jpg?1539938582",
+        "poly": "CLD",
+        "name": "Clément Dubois",
+        "manager": "PBE",
+        "level": "CS" 
+    }, 
+    {
+        "fullname": "DAOS David Ostermann",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1360/big/unnamed.jpg?1538385507",
+        "poly": "DAOS",
+        "name": "David Ostermann",
+        "manager": "JVI",
+        "level": "CS" 
+    }, 
+    {
+        "fullname": "DARI David Riviere",
+        "img": "//s3.amazonaws.com/askbob/users/photos/920/big/CINE5388.jpg?1528991560",
+        "poly": "DARI",
+        "name": "David Riviere",
+        "manager": "PBE",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "DELU Luc DELPLANQUE",
+        "img": "//s3.amazonaws.com/askbob/users/photos/2006/big/IMG_20201005_170753.jpg?1602056267",
+        "poly": "DELU",
+        "name": "Luc DELPLANQUE",
+        "manager": "DAOS",
+        "level": "C" 
+    }, 
+    {
+        "fullname": "ELBA Amelle EL BAKKAL",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1895/big/IMG_0826_copie_2.jpg?1584982065",
+        "poly": "ELBA",
+        "name": "Amelle EL BAKKAL",
+        "manager": "CHAN",
+        "level": "C" 
+    }, 
+    {
+        "fullname": "ELHA Hafida EL ISSAOUI",
+        "img": "//s3.amazonaws.com/askbob/users/photos/2027/big/selfie.jpg?1604334681",
+        "poly": "ELHA",
+        "name": "Hafida EL ISSAOUI",
+        "manager": "PBE",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "FCE Florian Cherel Enoh",
+        "img": "//s3.amazonaws.com/askbob/users/photos/757/big/_INE9902.jpg?1502976358",
+        "poly": "FCE",
+        "name": "Florian Cherel Enoh",
+        "manager": "QUEN",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "FLOG Flora GUY-COICHARD",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1565/big/photo_octo_2.jpg?1549890521",
+        "poly": "FLOG",
+        "name": "Flora GUY-COICHARD",
+        "manager": "LEF",
+        "level": "C" 
+    }, 
+    {
+        "fullname": "GAPA Paul GALLO",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1828/big/HUBC2586.jpg?1582207777",
+        "poly": "GAPA",
+        "name": "Paul GALLO",
+        "manager": "RED",
+        "level": "C" 
+    }, 
+    {
+        "fullname": "GMO Guillaume Moizan",
+        "img": "//s3.amazonaws.com/askbob/users/photos/701/big/_INE5759.jpg?1481532121",
+        "poly": "GMO",
+        "name": "Guillaume Moizan",
+        "manager": "LJA",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "ISPI Pierre ISABEL",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1908/big/Stand_FOCEEN_2018-650.jpg?1586168993",
+        "poly": "ISPI",
+        "name": "Pierre ISABEL",
+        "manager": "LEFL",
+        "level": "C" 
+    }, 
+    {
+        "fullname": "JONA Jonas Grillères",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1564/big/HUBC9192.jpg?1579956976",
+        "poly": "JONA",
+        "name": "Jonas Grillères",
+        "manager": "LJA",
+        "level": "C" 
+    }, 
+    {
+        "fullname": "JOTA Jordan Taillefer",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1658/big/WhatsApp_Image_2019-06-03_at_10.13.53_AM.jpg?1559568718",
+        "poly": "JOTA",
+        "name": "Jordan Taillefer",
+        "manager": "SIBE",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "JVI Julien Vignolles",
+        "img": "//s3.amazonaws.com/askbob/users/photos/435/big/jvi4.jpg?1617974233",
+        "poly": "JVI",
+        "name": "Julien Vignolles",
+        "manager": "WWO",
+        "level": "MR" 
+    }, 
+    {
+        "fullname": "LEF Florian Leroy",
+        "img": "//s3.amazonaws.com/askbob/users/photos/885/big/HUBC3625.jpg?1544089676",
+        "poly": "LEF",
+        "name": "Florian Leroy",
+        "manager": "LJA",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "LEFL Florian LEVY",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1546/big/HUBC4256.jpg?1562140775",
+        "poly": "LEFL",
+        "name": "Florian LEVY",
+        "manager": "DAOS",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "LIOM Mathieu Lioret",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1573/big/photoProfil.jpg?1550053682",
+        "poly": "LIOM",
+        "name": "Mathieu Lioret",
+        "manager": "SIBE",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "LJA Léo Jacquemin",
+        "img": "//s3.amazonaws.com/askbob/users/photos/798/big/FLG_0988-min.jpg?1501841744",
+        "poly": "LJA",
+        "name": "Léo Jacquemin",
+        "manager": "PBE",
+        "level": "CS" 
+    }, 
+    {
+        "fullname": "LUPI Pierre-Arnaud LUMALE",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1800/big/HUBC3040.jpg?1584029751",
+        "poly": "LUPI",
+        "name": "Pierre-Arnaud LUMALE",
+        "manager": "JVI",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "MAGR Matthieu GROS",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1900/big/photoPerso.jpg?1584605307",
+        "poly": "MAGR",
+        "name": "Matthieu GROS",
+        "manager": "JOTA",
+        "level": "C" 
+    }, 
+    {
+        "fullname": "MEBA Mehdi BAKALI",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1568/big/HUBC4387.jpg?1551726127",
+        "poly": "MEBA",
+        "name": "Mehdi BAKALI",
+        "manager": "DAOS",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "NIMA Nicolas Martinho",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1206/big/nima.jpg?1520934671",
+        "poly": "NIMA",
+        "name": "Nicolas Martinho",
+        "manager": "CLD",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "OLIV Olivia PENY-COBLENTZ",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1830/big/photo-profil.jpg?1579163082",
+        "poly": "OLIV",
+        "name": "Olivia PENY-COBLENTZ",
+        "manager": "",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "PBE Pierrette Bertrand",
+        "img": "//s3.amazonaws.com/askbob/users/photos/407/big/DSC_1897.jpg?1420822837",
+        "poly": "PBE",
+        "name": "Pierrette Bertrand",
+        "manager": "MBE",
+        "level": "MRC" 
+    }, 
+    {
+        "fullname": "SANH Sandra HAGE",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1896/big/0.jpg?1584550383",
+        "poly": "SANH",
+        "name": "Sandra HAGE",
+        "manager": "LEE",
+        "level": "C" 
+    }, 
+    {
+        "fullname": "SATL Sami TLILI",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1902/big/IMG_20200305_162729.jpg?1584446087",
+        "poly": "SATL",
+        "name": "Sami TLILI",
+        "manager": "JVI",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "SCDA Damien SCHALLER",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1990/big/965DEBAF-4552-4260-97B4-90E592C3CEC8.jpg?1600242799",
+        "poly": "SCDA",
+        "name": "Damien SCHALLER",
+        "manager": "FCE",
+        "level": "C" 
+    }, 
+    {
+        "fullname": "SIBE Simon Belbeoch",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1321/big/HUBC3171.jpg?1567512727",
+        "poly": "SIBE",
+        "name": "Simon Belbeoch",
+        "manager": "PBE",
+        "level": "CS" 
+    }, 
+    {
+        "fullname": "SOUF Soufiane Boutallaka",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1426/big/HUBC2297.jpg?1549645912",
+        "poly": "SOUF",
+        "name": "Soufiane Boutallaka",
+        "manager": "BRM",
+        "level": "C" 
+    }, 
+    {
+        "fullname": "STAN Stanislas Chable",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1221/big/HUBC2820.jpg?1538990096",
+        "poly": "STAN",
+        "name": "Stanislas Chable",
+        "manager": "",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "STEM Mickaël STEINBERG",
+        "img": "//s3.amazonaws.com/askbob/users/photos/2029/big/1604320754700.jpg?1604323867",
+        "poly": "STEM",
+        "name": "Mickaël STEINBERG",
+        "manager": "CLD",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "SYMO Sylvia MORENO",
+        "img": "//s3.amazonaws.com/askbob/users/photos/2105/big/12729136_10208490266395789_2358982437458859856_n_%281%29.jpg?1611063199",
+        "poly": "SYMO",
+        "name": "Sylvia MORENO",
+        "manager": "GMO",
+        "level": "C" 
+    }, 
+    {
+        "fullname": "THLO Thierry Loesch",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1261/big/CINE2915.jpg?1525248045",
+        "poly": "THLO",
+        "name": "Thierry Loesch",
+        "manager": "LJA",
+        "level": "CC" 
+    }, 
+    {
+        "fullname": "TINO Valentino SUMA",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1837/big/vale.jpg?1578991115",
+        "poly": "TINO",
+        "name": "Valentino SUMA",
+        "manager": "DAOS",
+        "level": "C" 
+    }, 
+    {
+        "fullname": "WAJI Walid KHOUAJI",
+        "img": "//s3.amazonaws.com/askbob/users/photos/2046/big/IMG_7297.jpg?1605633787",
+        "poly": "WAJI",
+        "name": "Walid KHOUAJI",
+        "manager": "EHA",
+        "level": "C" 
+    }, 
+    {
+        "fullname": "YAMA Yaelle Marsiac",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1357/big/20180831_162339.jpg?1537186035",
+        "poly": "YAMA",
+        "name": "Yaelle Marsiac",
+        "manager": "FCE",
+        "level": "C" 
+    }, 
+    {
+        "fullname": "YCWA Walid YAHIA-CHERIF",
+        "img": "//s3.amazonaws.com/askbob/users/photos/1849/big/HUBC1624.jpg?1582207708",
+        "poly": "YCWA",
+        "name": "Walid YAHIA-CHERIF",
+        "manager": "LEFL",
+        "level": "C"
+    }
+  ]
+}
