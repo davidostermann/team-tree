@@ -9,7 +9,7 @@ describe('Homepage', () => {
   describe('when user click on button', () => {
     it('should increment count', () => {
       const button = cy.findByRole('button', { name: /count/ }).click()
-      button.should('contain.text', 'count is 0')
+      button.should('contain.text', 'count is: 1')
     })
   })
 })
