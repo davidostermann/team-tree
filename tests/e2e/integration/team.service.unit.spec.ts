@@ -8,12 +8,7 @@ describe('team.service', () => {
   })
   describe('getTeam', () => {
     it('should call rest api', () => {
-      // given
-
-      // when
       cy.wrap(getList()).should('deep.equal', { bar: 'foo' })
-
-      // then
     })
   })
 })

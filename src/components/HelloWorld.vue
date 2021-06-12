@@ -10,7 +10,7 @@
 </template>
 
 <script lang="ts">
-import { computed, defineComponent, defineProps } from 'vue'
+import { computed, defineComponent } from 'vue'
 import { useStore, Mutation } from '@/store/index'
 
 export default defineComponent({
